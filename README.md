@@ -7,9 +7,9 @@ This repository holds code from Codeforces, Codechef, Atcoder & Topcoder Contest
 
 ## Practice
 ### Rating Wise Problems Practice 
-#### Codeforces 
-##### 1100 Rating 
-
+```
+Codeforces 1100 Rating 
+```
 | Problem | Name | Code |
 | ------ | ------ | ------ |
 |1679B|[Stone Age Problem](https://codeforces.com/contest/1679/problem/B)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1679B.cpp)|
