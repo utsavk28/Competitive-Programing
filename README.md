@@ -1,6 +1,14 @@
 # Competitive-Programing
 This repository holds code from Codeforces, Codechef, Atcoder & Topcoder Contest as well as practice problems
 
+```
+CP PROFILES : 
+```
+| Platform | Profile | 
+| ------ | ------ | 
+| [Codeforces](https://codeforces.com/) | [Utsavk02](https://codeforces.com/profile/Utsavk02) | 
+| [Codechef](https://www.codechef.com/) | [utsavk02](https://www.codechef.com/users/utsavk02) |
+
 ## Contest 
 
 ## Upsolve
