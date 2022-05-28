@@ -31,5 +31,7 @@ Codeforces 1100 Rating
 |1624C|[Division by Two and Permutation](https://codeforces.com/contest/1624/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1624C.cpp)|
 |1623B|[Game on Ranges](https://codeforces.com/contest/1623/problem/B)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1623B.cpp)|
 |1618C|[Paint the Array](https://codeforces.com/contest/1618/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1618C.cpp)|
+|1685A|[Circular Local MiniMax](https://codeforces.com/contest/1685/problem/A)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1685A.cpp)|
+|1682B|[Paint the Array](https://codeforces.com/contest/1682/problem/B)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1682B.cpp)|
 
 ### Topic Wise Problems Practice
