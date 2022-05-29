@@ -42,4 +42,25 @@ Codeforces 1100 Rating
 |1594B|[Special Numbers](https://codeforces.com/contest/1594/problem/B)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1594B.cpp)|
 |1593D1|[All are Same](https://codeforces.com/contest/1593/problem/B)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1593D1.cpp)|
 
+```
+Codeforces 1200 Rating 
+```
+
+```
+Codeforces 1300 Rating 
+```
+
+```
+Codeforces 1400 Rating 
+```
+
+```
+Codeforces 1500 Rating 
+```
+
+```
+Codeforces 1600 Rating 
+```
+
+
 ### Topic Wise Problems Practice
