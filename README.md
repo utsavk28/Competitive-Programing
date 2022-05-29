@@ -33,7 +33,6 @@ Codeforces 1100 Rating
 |1618C|[Paint the Array](https://codeforces.com/contest/1618/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1618C.cpp)|
 |1685A|[Circular Local MiniMax](https://codeforces.com/contest/1685/problem/A)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1685A.cpp)|
 |1682B|[AND Sorting](https://codeforces.com/contest/1682/problem/B)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1682B.cpp)|
-
 |1616B|[Mirror in the String](https://codeforces.com/contest/1616/problem/B)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1616B.cpp)|
 |1610B|[Kalindrome Array](https://codeforces.com/contest/1610/problem/B)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1610B.cpp)|
 |1609B|[William the Vigilant](https://codeforces.com/contest/1609/problem/B)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1609B.cpp)|
