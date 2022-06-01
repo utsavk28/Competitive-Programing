@@ -47,6 +47,16 @@ Codeforces 1100 Rating
 Codeforces 1200 Rating 
 ```
 
+| Problem | Name | Code |
+| ------ | ------ | ------ |
+|1656C|[Make Equal With Mod](https://codeforces.com/contest/1656/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1656C.cpp)|
+|1647B|[Madoka and the Elegant Gift](https://codeforces.com/contest/1647/problem/B)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1647B.cpp)|
+|1641A|[Great Sequence](https://codeforces.com/contest/1641/problem/A)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1641A.cpp)|
+|1637C|[Andrew and Stones](https://codeforces.com/contest/1637/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1637C.cpp)|
+|1635C|[Differential Sorting](https://codeforces.com/contest/1635/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1635C.cpp)|
+|1619C|[Wrong Addition](https://codeforces.com/contest/1619/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1619C.cpp)|
+|1613C|[Poisoned Dagger](https://codeforces.com/contest/1613/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1613C.cpp)|
+
 ```
 Codeforces 1300 Rating 
 ```
