@@ -74,5 +74,21 @@ Codeforces 1500 Rating
 Codeforces 1600 Rating 
 ```
 
+```
+Codeforces 1700 Rating 
+```
+
+```
+Codeforces 1800 Rating 
+```
+
+```
+Codeforces 1900 Rating 
+```
+
+```
+Codeforces 2000 Rating 
+```
+
 
 ### Topic Wise Problems Practice
