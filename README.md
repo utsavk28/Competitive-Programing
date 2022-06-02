@@ -12,8 +12,6 @@ CP PROFILES :
 
 ## Contest 
 
-## Upsolve
-
 ## Practice
 ### Rating Wise Problems Practice 
 ```
