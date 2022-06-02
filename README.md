@@ -54,6 +54,7 @@ Codeforces 1200 Rating
 |1635C|[Differential Sorting](https://codeforces.com/contest/1635/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1635C.cpp)|
 |1619C|[Wrong Addition](https://codeforces.com/contest/1619/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1619C.cpp)|
 |1613C|[Poisoned Dagger](https://codeforces.com/contest/1613/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1613C.cpp)|
+|1682C|[LIS or Reverse LIS?](https://codeforces.com/contest/1682/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1682C.cpp)|
 |1582C|[Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1582C.cpp)|
 |1578E|[Easy Scheduling](https://codeforces.com/contest/1578/problem/E)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1578E.cpp)|
 
