@@ -57,7 +57,9 @@ Codeforces 1200 Rating
 |1682C|[LIS or Reverse LIS?](https://codeforces.com/contest/1682/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1682C.cpp)|
 |1582C|[Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1582C.cpp)|
 |1578E|[Easy Scheduling](https://codeforces.com/contest/1578/problem/E)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1578E.cpp)|
+|1559C|[Mocha and Hiking](https://codeforces.com/contest/1559/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1559C.cpp)|
 
+<!-- 
 ```
 Codeforces 1300 Rating 
 ```
@@ -89,6 +91,6 @@ Codeforces 1900 Rating
 ```
 Codeforces 2000 Rating 
 ```
-
+ -->
 
 ### Topic Wise Problems Practice
