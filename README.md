@@ -7,7 +7,7 @@ CP PROFILES :
 | Platform | Profile | Rating |
 | ------ | ------ | ------ |
 | [Codeforces](https://codeforces.com/) | [Utsavk02](https://codeforces.com/profile/Utsavk02) | Specialist (Cyan) |
-| [Codeforces](https://codeforces.com/) | [stalker_](https://codeforces.com/profile/stalker_) | Newbie(Gray) Alt Acc. |
+<!-- | [Codeforces](https://codeforces.com/) | [stalker_](https://codeforces.com/profile/stalker_) | Newbie(Gray) Alt Acc. | -->
 | [Codechef](https://www.codechef.com/) | [utsavk02](https://www.codechef.com/users/utsavk02) | 4 Star (Purple) |
 
 ## Contest 
