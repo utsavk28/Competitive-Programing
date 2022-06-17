@@ -62,6 +62,7 @@ Codeforces 1200 Rating
 |1559C|[Mocha and Hiking](https://codeforces.com/contest/1559/problem/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1559C.cpp)|
 |1692E|[Binary Deque](https://codeforces.com/problemset/problem/1692/E)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1692E.cpp)|
 |1650C|[Weight of the System of Nested Segments](https://codeforces.com/problemset/problem/1650/C)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1650C.cpp)|
+|1608B|[Build the Permutation](https://codeforces.com/problemset/problem/1608/B)|[link](https://github.com/utsavk28/Competitive-Programing/blob/main/codeforces/1608B.cpp)|
 
 <!-- 
 ```
